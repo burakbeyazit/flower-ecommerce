@@ -52,7 +52,7 @@ Flowerify.Backend
 ├— Application      # UseCase’ler ve servisler
 ├— Domain           # Entity, Aggregate, Value Object, Repository interface
 ├— Services   # EF Core, dış servis adapterları
-└— WAPI           # Controller, DTO, Middleware
+└— API           # Controller, DTO, Middleware
 ```
 
 ---
