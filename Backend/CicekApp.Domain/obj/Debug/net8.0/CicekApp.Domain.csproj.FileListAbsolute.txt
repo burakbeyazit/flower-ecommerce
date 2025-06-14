@@ -1,0 +1,12 @@
+/Users/burakbeyazit/flower-app/CicekApp.Domain/bin/Debug/net8.0/CicekApp.Domain.deps.json
+/Users/burakbeyazit/flower-app/CicekApp.Domain/bin/Debug/net8.0/CicekApp.Domain.dll
+/Users/burakbeyazit/flower-app/CicekApp.Domain/bin/Debug/net8.0/CicekApp.Domain.pdb
+/Users/burakbeyazit/flower-app/CicekApp.Domain/obj/Debug/net8.0/CicekApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakbeyazit/flower-app/CicekApp.Domain/obj/Debug/net8.0/CicekApp.Domain.AssemblyInfoInputs.cache
+/Users/burakbeyazit/flower-app/CicekApp.Domain/obj/Debug/net8.0/CicekApp.Domain.AssemblyInfo.cs
+/Users/burakbeyazit/flower-app/CicekApp.Domain/obj/Debug/net8.0/CicekApp.Domain.csproj.CoreCompileInputs.cache
+/Users/burakbeyazit/flower-app/CicekApp.Domain/obj/Debug/net8.0/CicekApp.Domain.sourcelink.json
+/Users/burakbeyazit/flower-app/CicekApp.Domain/obj/Debug/net8.0/CicekApp.Domain.dll
+/Users/burakbeyazit/flower-app/CicekApp.Domain/obj/Debug/net8.0/refint/CicekApp.Domain.dll
+/Users/burakbeyazit/flower-app/CicekApp.Domain/obj/Debug/net8.0/CicekApp.Domain.pdb
+/Users/burakbeyazit/flower-app/CicekApp.Domain/obj/Debug/net8.0/ref/CicekApp.Domain.dll

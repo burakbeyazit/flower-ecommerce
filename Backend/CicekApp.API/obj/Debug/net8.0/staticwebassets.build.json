@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h/76yTZsl5AXqPLAAKRmIjheyoZ6n+RuEBGzmN95CLk=",
+  "Source": "CicekApp.API",
+  "BasePath": "_content/CicekApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
