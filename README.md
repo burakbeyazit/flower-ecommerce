@@ -28,7 +28,6 @@ Modern ve modüler mimariler kullanılarak geliştirilmiş bir çiçek satış p
 
 * **Next.js** – React tabanlı modern frontend yapısı
 * **Tailwind CSS** – responsive arayüzler için (opsiyonel)
-* **Axios / SWR** – veri iletişimi
 
 ---
 
